@@ -1,0 +1,15 @@
+{
+  "opts": {
+    "recurse": true
+  },
+  "source": {
+    "include": ["a.js"]
+  },
+  "plugins": ["jsdoc-plugin-typescript"],
+  "tags": {
+    "allowUnknownTags": true
+  },
+  "typescript": {
+    "moduleRoot": "."
+  }
+}

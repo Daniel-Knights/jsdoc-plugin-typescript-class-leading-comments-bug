@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "jsdoc": "jsdoc --configure conf.json"
+  },
+  "dependencies": {
+    "jsdoc": "^4.0.3",
+    "jsdoc-plugin-typescript": "^2.3.0"
+  }
+}
